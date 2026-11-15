@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fc7ac5a-714c-4903-a2f5-ff5dd8016f8d" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab1ML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmesHousing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1.ipynb" afterDir="false" />
+    <list default="true" id="9fc7ac5a-714c-4903-a2f5-ff5dd8016f8d" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Ardelean Irina/PycharmProjects/Lab1ML&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -90,7 +85,12 @@
       <workItem from="1791817507632" duration="2405000" />
       <workItem from="1792226957331" duration="4554000" />
       <workItem from="1792240650724" duration="3352000" />
-      <workItem from="1792244196849" duration="298000" />
+      <workItem from="1792244196849" duration="457000" />
+      <workItem from="1792414267949" duration="985000" />
+      <workItem from="1793017918222" duration="8000" />
+      <workItem from="1793620610117" duration="1931000" />
+      <workItem from="1793623161070" duration="2890000" />
+      <workItem from="1794418322750" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791818912466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1792244594386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792244594386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
